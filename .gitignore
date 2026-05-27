@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+
+# VS build dirs
+Debug/
+Release/
+x64/
+x86/
+
+# VS files
+.vs/
+*.user
+*.suo
